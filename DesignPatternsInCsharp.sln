@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDesignPattern", "StrategyDesignPattern\StrategyDesignPattern.csproj", "{C69CFBED-CCFB-42D2-B647-6A60CA8FBE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorStrategyDesignPattern", "CalculatorStrategyDesignPattern\CalculatorStrategyDesignPattern.csproj", "{524DDF50-1430-428C-B2A3-9E7D39AC2EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C69CFBED-CCFB-42D2-B647-6A60CA8FBE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69CFBED-CCFB-42D2-B647-6A60CA8FBE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69CFBED-CCFB-42D2-B647-6A60CA8FBE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69CFBED-CCFB-42D2-B647-6A60CA8FBE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524DDF50-1430-428C-B2A3-9E7D39AC2EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524DDF50-1430-428C-B2A3-9E7D39AC2EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524DDF50-1430-428C-B2A3-9E7D39AC2EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524DDF50-1430-428C-B2A3-9E7D39AC2EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E6C4593-6DD4-4B1C-9DB5-9F05E3DADADA}
+	EndGlobalSection
+EndGlobal
